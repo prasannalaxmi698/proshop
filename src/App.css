@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+
+.searchButton{
+  width: 110px;
+  height: 50px;
+  border-radius: 2px;
+  margin-left: 5px;
+  border-color: #178A60;
+  color:#178A60;
+  background-color: #282c34; 
+}
+.textbox{
+  width: 160px;
+  height: 50px;
+  margin-left: 50px;
+}
+.navbar{
+  padding-left: 30px;
+}
+.loginButton{
+  margin-left: 2px;
+  width: 50px; 
+}
+.loginImg{
+  width: 30px;
+  height: 30px;
+  margin-left: 700px;
+}
+.passwordtext{
+  padding-left: 0 25%;
+}
+.login{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.signin{
+  margin-left:10px;
+  border-radius: 2px;
+}
+.cart{
+  margin-left:600px;
+}
+.submit{
+  
+}
